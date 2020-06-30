@@ -1,0 +1,6 @@
+logs/
+*.hdf5
+dataset/
+__pycache__/
+.ipynb_checkpoints/
+logs_*
